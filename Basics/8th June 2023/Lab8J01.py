@@ -2,6 +2,7 @@
 # Octal Literals - int b=0101;  - Base is 8
 # Hexadecimal Literals - int c=0Xface; // Base 16 rather than base 10
 # Binary Literals () - int b2 = 0b101; Base is 2
+# Use RapidTables to calculate ,search in google
 
 age = 10 #base 10
 #variable name -> age

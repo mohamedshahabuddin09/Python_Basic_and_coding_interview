@@ -1,6 +1,9 @@
 str1 = "Hello, "
 str2 = "World!"
+print(id(str1))
+print(id(str2))
 str3 = str1 + str2
+print(id(str3))
 print(str3)  # Prints: Hello, World!
 
 

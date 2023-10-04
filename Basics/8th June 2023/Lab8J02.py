@@ -1,10 +1,12 @@
 #Unary Operator
+# Not keyword always return true and false
 num1 = +10
 num2 = -11
 num2 = num2+num1  #-11+10 -> -1
 print(num2)
 
 flag = True
+
 notFlag = False 
 true=True #Keyword
 
@@ -13,7 +15,7 @@ print(not flag)
 # 5 -> int, decimal literal -> True
 #print(not -1)
 
-#Bitwise ~
+#Bitwise ~ first covert 5 to binary then binary to decimal using RapidTable
 var = 5
 print(~var)
 

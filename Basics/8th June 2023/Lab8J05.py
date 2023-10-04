@@ -1,5 +1,5 @@
-x = 11
-y = 3
+x = 3
+y = 2
 print(x+y)
 print(x-y)
 print(x*y)
@@ -12,8 +12,6 @@ b = False
 
 print(a and b)  # Prints: False
 print(a or b)  # Prints: True
-
-
 
 x = 10
 y = 20

@@ -23,4 +23,23 @@ if age>18:
 else:
     print("You can' add the watch the Movie")
 
+x=20
+y=20
+if x>y:
+    print("x is larger")
+if y>x:
+    print("Y is larger")
+else:
+    print("both are equal")
 
+a=10
+b=6
+c=7
+if a>b and a>c:
+    max=a
+elif b>c and b>a:
+    max=b
+else:
+    max=c
+
+print("max is"+str(max))
