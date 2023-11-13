@@ -18,28 +18,28 @@ age = int(input("Enter your Age to Watch the A Grade Movie"))
 # else <False> :
 #     # Code to be Exute if Condition is False
 
-if age>18:
+if age > 18:
     print("Yes you can watch the A Rated Movie")
 else:
     print("You can' add the watch the Movie")
 
-x=20
-y=20
-if x>y:
+x = 20
+y = 20
+if x > y:
     print("x is larger")
-if y>x:
+if y > x:
     print("Y is larger")
 else:
     print("both are equal")
 
-a=10
-b=6
-c=7
-if a>b and a>c:
-    max=a
-elif b>c and b>a:
-    max=b
+a = 10
+b = 6
+c = 7
+if a > b and a > c:
+    max = a
+elif b > c and b > a:
+    max = b
 else:
-    max=c
+    max = c
 
-print("max is"+str(max))
+print("max is" + str(max))

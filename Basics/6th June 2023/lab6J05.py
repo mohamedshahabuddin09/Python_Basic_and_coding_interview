@@ -10,5 +10,4 @@
 
 list1 = ["A","B","C"]
 String2 = ''.join(list1)
-del String2
 print(String2)
